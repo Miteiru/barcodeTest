@@ -47,7 +47,7 @@ final class PersistancyManager {
     albums = [album1, album2, album3, album4, album5]
   }
   
-  func getAlbums() -> [Album]{
+  func getAlbums() -> [Album] {
     return albums
   }
   
