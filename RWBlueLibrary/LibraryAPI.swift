@@ -5,7 +5,7 @@
 //  Created by splab-mac27 on 2018/05/11.
 //  Copyright © 2018 Razeware LLC. All rights reserved.
 //
-//Facade implementation
+//Facade implementation 
 import Foundation
 
 final class LibraryAPI {
